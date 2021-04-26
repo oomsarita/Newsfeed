@@ -1,0 +1,18 @@
+.App-font {
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+.background-color {
+    background-color: #aab6bf;
+}
+
+.input {
+    position: relative;
+    left: 30px;
+}
+
+.Title {
+    font-family: Impact, Charcoal, sans-serif;
+    position: relative;
+    left: 500px;
+}

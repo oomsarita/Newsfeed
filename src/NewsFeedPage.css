@@ -1,0 +1,23 @@
+.thread1 {
+    position: relative;
+    height: 50px;
+    width: 515px;
+}
+
+
+
+.background-color {
+    background-color: #aab6bf;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
